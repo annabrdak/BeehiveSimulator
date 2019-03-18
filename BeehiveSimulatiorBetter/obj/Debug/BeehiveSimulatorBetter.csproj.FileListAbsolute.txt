@@ -1,0 +1,12 @@
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\bin\Debug\BeehiveSimulatiorBetter.exe.config
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\bin\Debug\BeehiveSimulatiorBetter.exe
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\bin\Debug\BeehiveSimulatiorBetter.pdb
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\obj\Debug\BeehiveSimulatorBetter.csprojAssemblyReference.cache
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\obj\Debug\BeehiveSimulatorBetter.FieldForm.resources
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\obj\Debug\BeehiveSimulatorBetter.Form1.resources
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\obj\Debug\BeehiveSimulatorBetter.HiveForm.resources
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\obj\Debug\BeehiveSimulatiorBetter.Properties.Resources.resources
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\obj\Debug\BeehiveSimulatorBetter.csproj.GenerateResource.cache
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\obj\Debug\BeehiveSimulatorBetter.csproj.CoreCompileInputs.cache
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\obj\Debug\BeehiveSimulatiorBetter.exe
+C:\Users\brdaka\Desktop\VisualStudio\BeehiveSimulatiorBetter\BeehiveSimulatiorBetter\obj\Debug\BeehiveSimulatiorBetter.pdb
